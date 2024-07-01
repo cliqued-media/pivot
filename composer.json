@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/pivot",
-    "version": "9.0.1",
+    "name": "cliqued-media/pivot",
+    "version": "1.0.0",
     "description": "Pivot package for KoolReport",
     "keywords": ["PHP","Reporting Tools","Data Report","Charts","Pivot table"],
     "homepage": "http://koolreport.com",
